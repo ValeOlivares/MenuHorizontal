@@ -1,0 +1,28 @@
+/*2e2e2a #feq91a*/
+
+body{
+  font-family: sans-serif;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  margin:0;
+  background: #2e2e2a;
+  line-height: 40px;
+}
+li{
+
+  width: 100px;
+  display: inline-block;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  display:block;
+  color: #fff;
+}
+a:hover{
+  background: #fea91a;
+  color: #000;
+}
